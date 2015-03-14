@@ -1,0 +1,17 @@
+{
+  "name": "pwget",
+  "version": "0.0.0",
+  "description": "prints out chrome saved passwords",
+  "main": "pwget.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Max Verigin (griever989)",
+  "license": "MIT",
+  "dependencies": {
+    "ffi": "^1.2.7",
+    "ref": "^1.0.0",
+    "ref-struct": "^1.0.0",
+    "sqlite3": "^3.0.5"
+  }
+}
